@@ -1,1 +1,3 @@
 # Data-Analytics
+This repository contains a collection of my work samples, including interactive dashboards, comprehensive reports, and data analysis projects. Each project is designed to showcase my skills in data visualization, analysis, and reporting, using tools like Tableau, PowerBI, and Python. The dashboards provide insights into various datasets, while the accompanying reports offer detailed explanations of the methodologies, findings, and recommendations.
+Feel free to explore the samples to get a better understanding of my analytical approach and how I translate complex data into actionable insights.

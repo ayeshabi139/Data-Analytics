@@ -1,4 +1,4 @@
-# Module 2 Assignment - Stakeholder Management in Data Analytics Projects
+# Stakeholder Management in Data Analytics Projects
 
 **Author**: Ayeshabi W Tigdikar  
 **Course**: Master of Science in Project Management, Northeastern University  

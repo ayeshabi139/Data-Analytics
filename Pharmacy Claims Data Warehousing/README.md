@@ -43,17 +43,6 @@ The `Fact_Prescription_Table` is the central table in the schema, referencing th
 
 The dataset's structure follows a star schema, with one central fact table (`Fact_Prescription_Table`) surrounded by four dimension tables (`Dim_Member_Details_Table`, `Dim_Drugs_Table`, `Dim_DrugForm_Table`, `Dim_DrugGeneric_Table`). This design is commonly used in data warehousing for its efficiency in querying and reporting.
 
-## Analytics and Reporting
-
-1. **Number of Prescriptions Grouped by Drug Name**:  
-   - The drug **AMBIEN** was prescribed a total of 5 times.
-
-2. **Total Prescriptions, Distinct Members, Copay, and Insurance Paid by Age Group**:  
-   - There is 1 unique member aged 65+ with a total of 6 prescriptions.
-
-3. **Amount Paid by Insurance for the Most Recent Prescription Fill Date**:  
-   - For member **Jane Doe** (`member_id: 10003`), the most recent fill date is **May 16th, 2018**, for the drug **AMBIEN**, with an insurance payment of **$322**.
-
 ## Conclusion
 
 Normalization of the dataset to 3NF successfully removed transitive dependencies, leading to a more organized and efficient data structure. The analysis provided valuable insights into prescription trends, highlighting the significance of data normalization and analysis in deriving actionable insights in the pharmaceutical industry.

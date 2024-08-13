@@ -11,10 +11,13 @@ This project has been created using Tableau and consists of two key files:
 
 ## Features
 
-- **Content Overview**: Visualize the distribution of Netflix's content by genre, rating, and type (movie or TV show).
-- **Yearly Trends**: Analyze the number of movies and TV shows added to Netflix over the years.
-- **Genre Analysis**: Examine the popularity of different genres across the Netflix library.
-- **Top-Rated Content**: Identify the highest-rated movies and TV shows available on Netflix.
+- **Total Movies and TV Shows by Year**: Visualize the number of movies and TV shows added to Netflix each year.
+- **Total Movies and TV Shows by Country**: Explore the distribution of content by country of origin.
+- **Genre Distribution**: Analyze the popularity of different genres across the Netflix library.
+- **Content Descriptions**: View and analyze the descriptions of movies and TV shows.
+- **Top 10 Ratings**: Identify the top 10 highest-rated movies and TV shows available on Netflix.
+- **Movies and TV Shows Distribution**: Examine the distribution of content types across various categories.
+- **Various KPIs**: Access additional key performance indicators to gain deeper insights into Netflix's content.
 - **Interactive Filtering**: Use filters to customize the data view based on genre, rating, release year, and other parameters.
 
 ## Files Included
